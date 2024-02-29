@@ -1,0 +1,14 @@
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\bin\Debug\net8.0\Ulamki.exe
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\bin\Debug\net8.0\Ulamki.deps.json
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\bin\Debug\net8.0\Ulamki.runtimeconfig.json
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\bin\Debug\net8.0\Ulamki.dll
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\bin\Debug\net8.0\Ulamki.pdb
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.AssemblyInfoInputs.cache
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.AssemblyInfo.cs
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.csproj.CoreCompileInputs.cache
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.dll
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\refint\Ulamki.dll
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.pdb
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\Ulamki.genruntimeconfig.cache
+C:\Users\sarjo\Desktop\project programowanie\Ulamki\Ulamki\obj\Debug\net8.0\ref\Ulamki.dll
